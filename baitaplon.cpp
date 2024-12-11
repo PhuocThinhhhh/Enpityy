@@ -107,7 +107,7 @@ int main() {
         system("cls"); 
         printBoard(puzzleBoard);
     }
-   	cout << "Congratulations!!! You won.\n";
+   	cout << "!!! You won.\n";
    	cout << "Press 0 to quit: ";
 	cin.ignore();	
     return 0;
